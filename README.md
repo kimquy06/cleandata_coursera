@@ -1,4 +1,4 @@
- This is course project of 'Getting and Cleaning Data' on Coursera website(https://class.coursera.org/getdata-002. 
+ This is course project of 'Getting and Cleaning Data' on Coursera website(https://class.coursera.org/getdata-002). 
  The requirement is making a tiny data set from the Human Activity Recognition Using Smartphones Data Set.
 
  To make a tiny data set, I created a R script (run_analysis.R). 
