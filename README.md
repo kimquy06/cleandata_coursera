@@ -8,4 +8,4 @@
   - y_train.txt, y_test.txt
   - features.txt, activity_labels.txt
 
- Run the script in R by using this command: source("run_analysis.R"). Then, the result is tiny_data.csv file
+ Run the script in R by using this command: source("run_analysis.R"). Then, the result is tiny_data.csv file.
